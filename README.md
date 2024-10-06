@@ -16,4 +16,4 @@ Getting familiar with adversarial generative networks
 ## project7
 Getting familiar with transformer networks
 ## project8
-Getting familiar with deep reinforcement learning
+Getting familiar with reinforcement learning
